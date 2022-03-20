@@ -1,1 +1,1 @@
-# CS234
+# CS234 Reinforcement Learning
